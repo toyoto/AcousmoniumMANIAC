@@ -1,6 +1,6 @@
 # Acousmonium de poche MANIAC
 
-____Système de sonorisation dédié aux arts acousmatiques, constitué de :____
+___Système de sonorisation dédié aux arts acousmatiques, constitué de :___
 
 - enceintes électro-acoustiques (large-bandes, moniteurs, enceintes stéréo, enceintes à directivité spéciales, au minimum 12x enceintes)
 - amplificateurs (classe D ou Full Digital Amplifier, I2S)
