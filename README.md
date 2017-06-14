@@ -14,9 +14,9 @@ Système de sonorisation dédié aux arts acousmatiques, constitué de
 - fonctionne sur batterie et sur secteur
 - peut se brancher à des système de sonorisation existants
 
-A public adress system dedicated to acousmatic arts, made of
+*A public adress system dedicated to acousmatic arts, made of*
 
-* electroacoustic loudspeakers (full-range, monitors, stereo speakers, special directivites speakers, at least 12x loudspeakers)
+* *electroacoustic loudspeakers (full-range, monitors, stereo speakers, special directivites speakers, at least 12x loudspeakers)*
 * audio amplifiers (class-D, Full Digital Amplifier, I2S)
 * analog to digital & digital to analog converters (I2S protocol)
 * multiple volume controle console (digital or analog)
