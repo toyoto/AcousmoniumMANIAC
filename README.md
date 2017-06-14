@@ -1,6 +1,6 @@
 # Acousmonium de poche MANIAC
 
-___Système de sonorisation dédié aux arts acousmatiques, constitué de :___
+### Système de sonorisation dédié aux arts acousmatiques, constitué de :
 
 - enceintes électro-acoustiques (large-bandes, moniteurs, enceintes stéréo, enceintes à directivité spéciales, au minimum 12x enceintes)
 - amplificateurs (classe D ou Full Digital Amplifier, I2S)
@@ -16,7 +16,7 @@ ___Système de sonorisation dédié aux arts acousmatiques, constitué de :___
 
 
 
-***A public adress system dedicated to acousmatic arts, made of:***
+### *A public adress system dedicated to acousmatic arts, made of:*
 
 * *electroacoustic loudspeakers (full-range, monitors, stereo speakers, special directivites speakers, at least 12x loudspeakers)*
 * *audio amplifiers (class-D, Full Digital Amplifier, I2S)*
