@@ -1,4 +1,4 @@
-## Acousmonium de poche MANIAC
+#Acousmonium de poche MANIAC
 
 ****Système de sonorisation dédié aux arts acousmatiques, constitué de****
 
