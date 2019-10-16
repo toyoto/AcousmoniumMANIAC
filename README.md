@@ -2,7 +2,7 @@
 
 ### Système de sonorisation dédié aux arts acousmatiques, constitué de :
 
-- enceintes électro-acoustiques (large-bandes, moniteurs, enceintes stéréo, enceintes à directivité spéciales, au minimum 12x enceintes)
+- enceintes électro-acoustiques (large-bandes, moniteurs, enceintes stéréo, enceintes à directivité spéciales, au minimum 12x enceintes, max 20x)
 - amplificateurs (classe D ou Full Digital Amplifier, I2S)
 - convertisseurs analogique>numérique et numérique>analogique (protocole I2S)
 - multiple controleurs de volume (numérique ou analogique)
